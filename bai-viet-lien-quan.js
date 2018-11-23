@@ -1,4 +1,4 @@
-//<![CDATA[
+
 	'use strict';
 var _0xcf70 = ["length", "entry", "feed", "$t", "title", "link", "rel", 
 "alternate", "href", "published", "?m=0", "indexOf", "", "replace", "splice", 
@@ -91,4 +91,4 @@ function printRelatedLabels(url) {
 }
 document[_0xcf70[18]](_0xcf70[27]);
 
-//]]>	
+
