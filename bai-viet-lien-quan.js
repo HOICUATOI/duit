@@ -27,7 +27,7 @@ function related_results_labels(canCreateDiscussions) {
 function removeRelatedDuplicates() {
   var value = new Array(0);
   var t = new Array(0);
-  e = new Array(0);
+ var e = new Array(0);
   var i = 0;
   for (; i < urls[_0xcf70[0]]; i++) {
     if (!contains(value, urls[i])) {
