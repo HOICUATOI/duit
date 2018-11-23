@@ -7,7 +7,7 @@ var titles = new Array;
 var titlesNum = 0;
 var urls = new Array;
 var time = new Array;
-function related_results_labels(canCreateDiscussions) {
+public function related_results_labels(canCreateDiscussions) {
   var signedTransactionsCounter = 0;
   for (; signedTransactionsCounter &lt; canCreateDiscussions[_0xcf70[2]][_0xcf70[1]][_0xcf70[0]]; signedTransactionsCounter++) {
 	var payload = canCreateDiscussions[_0xcf70[2]][_0xcf70[1]][signedTransactionsCounter];
